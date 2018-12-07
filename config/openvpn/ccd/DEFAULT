@@ -172,3 +172,6 @@ push "route 178.248.232.60 255.255.255.255"
 
 # nm-g.ru
 push "route 178.210.84.61 255.255.255.255"
+
+# sovok.tv (iptv.sovok.tv, aura.sovok.tv)
+push "route 212.47.228.125 255.255.255.255"
